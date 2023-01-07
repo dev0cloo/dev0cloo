@@ -29,9 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 - :telescope: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the centralised and decentralised web.
 
-- :seedling: Exploring Artificial Intelligence and Machine learning.
+- :seedling: Exploring Artificial Intelligence and Machine learning :robot:
 
-- :zap: In my free time, you will find me speedcubing and practicing magic✨
+- :zap: In my free time, you will find me on CodeWars:crossed_swords:
   
   
   
@@ -51,6 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev0cloo&theme=blue-green&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
     
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 </div>
