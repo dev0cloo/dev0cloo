@@ -11,7 +11,7 @@
   <div align="center">
     <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt=""/>
     <h1>
-    Hi there
+    Hi there, I am Etornam Ocloo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 
@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev0cloo&theme=blue-green&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-    
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
     
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
