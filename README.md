@@ -1,19 +1,22 @@
 <div>
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100"/>
   </div>
   <div id ="badges" align="center">
   <a href="https://twitter.com/0xDevSenpai">
-    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=flat-square&color=green" alt=""/>
+    
+  </div>
+  <div align="center">
+    <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt=""/>
     <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
+
   </div>
-  
-  <div align="center">
+    <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     
    </div>
@@ -24,15 +27,34 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the centralised and decentralised web.
 
 - :seedling: Exploring Artificial Intelligence and Machine learning.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, you will find me speedcubing and practicing magic✨
+  
+  
+  
+  
+### :hammer_and_wrench: Languages and Tools :  
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="40" />
+  
+---
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-</div>
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev0cloo&theme=blue-green&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
+    
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+</div>
+     -->
  
  
  
