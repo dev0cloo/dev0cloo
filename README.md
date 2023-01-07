@@ -27,7 +27,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
   
-- :speech_balloon: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the centralised and decentralised web:earth_africa:
+- :speech_balloon: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the Centralised and Decentralised web:earth_africa:
 
 - :telescope: Exploring Artificial Intelligence and Machine learning :robot:
 
