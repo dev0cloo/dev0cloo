@@ -27,9 +27,9 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
   
-- :telescope: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the centralised and decentralised web.
+- :speech_balloon: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the centralised and decentralised web:earth_africa:
 
-- :seedling: Exploring Artificial Intelligence and Machine learning :robot:
+- :telescope: Exploring Artificial Intelligence and Machine learning :robot:
 
 - :zap: In my free time, you will find me on CodeWars:crossed_swords:
   
@@ -53,9 +53,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
     
-<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-</div>
-     -->
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/0xDevSenpai)
+    
  
  
  
