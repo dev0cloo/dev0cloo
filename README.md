@@ -9,14 +9,15 @@
     
   </div>
   <div align="center">
-    <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt=""/>
+    <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt=""/></br>
+    <img src="https://www.codewars.com/users/dev0cloo/badges/large"/>
     <h1>
     Hi there, I am Etornam Ocloo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 
   </div>
-  <div align="center"><img src="https://www.codewars.com/users/dev0cloo/badges/large" width="60px"/>
+  <div align="center">
     <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     
