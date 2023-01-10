@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: Exploring Artificial Intelligence and Machine learning :robot:
 
-- :zap: In my free time, you will find me on CodeWars:crossed_swords:
+- :zap: In my free time, you will find me on <a href="https://www.codewars.com/users/dev0cloo">CodeWars</a>:crossed_swords:
   
   
   
