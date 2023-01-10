@@ -9,8 +9,9 @@
     
   </div>
   <div align="center">
-    <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt=""/></br>
-    <img src="https://www.codewars.com/users/dev0cloo/badges/large"/>
+    <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt="profile views"/></br>
+  <a href="https://www.codewars.com/users/dev0cloo" alt="codewars ranks">
+    <img src="https://www.codewars.com/users/dev0cloo/badges/large"/></a>
     <h1>
     Hi there, I am Etornam Ocloo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
