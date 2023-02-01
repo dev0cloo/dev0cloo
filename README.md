@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 - :speech_balloon: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the Centralised and Decentralised web:earth_africa:
 
-- :telescope: Exploring Artificial Intelligence and Machine learning :robot:
+- :telescope: Exploring Machine learning in Algorithmic Trading :robot:
 
 - :zap: In my free time, you will find me on <a href="https://www.codewars.com/users/dev0cloo">CodeWars</a>:crossed_swords:
   
