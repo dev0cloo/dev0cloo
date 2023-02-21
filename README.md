@@ -54,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev0cloo&theme=blue-green&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev0cloo&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo)](https://github.com/anuraghazra/github-readme-stats)  
     
