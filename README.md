@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100"/>
   </div>
   <div id ="badges" align="center">
-  <a href="https://twitter.com/0xDevSenpai">
+  <a href="https://twitter.com/dev0cloo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     
@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo)](https://github.com/anuraghazra/github-readme-stats)  
     
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/0xDevSenpai)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dev0cloo)
     
  
  
