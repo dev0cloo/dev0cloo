@@ -27,10 +27,10 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
+I am a Smart Contract Auditor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
   
-- :speech_balloon: I’m working as a Web Developer and a Smart Contract Engineer contributing to both the Centralised and Decentralised web:earth_africa:
+- :speech_balloon: I currently spend my time as a Warden on <a href="https://code4rena.com/">Code4rena</a>:earth_africa:
 
 - :telescope: Exploring Machine learning in Algorithmic Trading :robot:
 
