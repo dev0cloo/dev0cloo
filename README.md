@@ -30,7 +30,7 @@
 I am a Smart Contract Auditor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
   
-- :speech_balloon: I currently spend my time as a Warden on <a href="https://code4rena.com/">Code4rena</a>:earth_africa:
+- :speech_balloon: I currently spend my time as either as a judge on Sherlock or a Warden on <a href="https://code4rena.com/">Code4rena</a>:earth_africa:
 
 - :telescope: Exploring Machine learning in Algorithmic Trading :robot:
 
