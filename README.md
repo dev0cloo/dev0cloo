@@ -27,7 +27,7 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Smart Contract Auditor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
+I am a Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 
   
 - :speech_balloon: I currently spend my time as either a judge on Sherlock or a Warden on <a href="https://code4rena.com/">Code4rena</a>:earth_africa:
