@@ -27,10 +27,10 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
+I am a Lead Security Researcher at <a href="https://0xafrosec.github.io">0xAfroSec</a>
 
   
-- :speech_balloon: I currently spend my time as either a judge on Sherlock or a Warden on <a href="https://code4rena.com/">Code4rena</a>:earth_africa:
+- :speech_balloon: I currently spend my time either performing security reviews of smart contracts or building Open-Source tools:computer:
 
 - :telescope: Exploring Machine learning in Algorithmic Trading :robot:
 
