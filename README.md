@@ -27,7 +27,7 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Smart Contract Developer and Lead Security Researcher at <a href="https://0xafrosec.github.io">0xAfroSec</a>
+I am a Senior Smart Contract Developer and Lead Security Researcher at <a href="https://0xafrosec.github.io">0xAfroSec</a>
 
   
 - :speech_balloon: I currently spend my time either performing security reviews of smart contracts or building Open-Source tools:computer:
