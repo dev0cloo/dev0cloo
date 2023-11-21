@@ -12,16 +12,9 @@
     <img  src="https://komarev.com/ghpvc/?username=dev0cloo&style=for-the-badge&color=green" alt="profile views"/></br>
   <a href="https://www.codewars.com/users/dev0cloo" alt="codewars ranks">
     <img src="https://www.codewars.com/users/dev0cloo/badges/large"/></a>
-    <h1>
-    Hi there, I am dev0cloo 👋🏾
-    </h1>
-
-  </div>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     
   </div>
+  
 
   ---
 
