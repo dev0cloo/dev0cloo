@@ -18,20 +18,20 @@
 
   ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 I am a Senior Smart Contract Developer and Lead Security Researcher at <a href="https://0xafrosec.github.io">0xAfroSec</a>
 
   
-- :speech_balloon: I currently spend my time either performing security reviews of smart contracts or building Open-Source tools:computer:
+- 💬 I currently spend my time either performing security reviews of smart contracts or building Open-Source tools🖥
 
-- :telescope: Exploring Machine learning in Algorithmic Trading :robot:
+- 🔭 Exploring Machine learning in Algorithmic Trading 🤖
 
 - :zap: In my free time, you will find me on <a href="https://www.codewars.com/users/dev0cloo">CodeWars</a>:crossed_swords:
   
   
   
   
-### :hammer_and_wrench: Languages and Tools :  
+### 🛠 Languages and Tools :  
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="70" height="70"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="NodeJS" width="70" height="70"/>&nbsp;
@@ -45,12 +45,12 @@ I am a Senior Smart Contract Developer and Lead Security Researcher at <a href="
   
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev0cloo&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo)](https://github.com/anuraghazra/github-readme-stats)  
     
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dev0cloo)
+- 📧 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dev0cloo)
     
  
  
