@@ -50,7 +50,7 @@ I am a Senior Smart Contract Developer and Lead Security Researcher at <a href="
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0cloo)](https://github.com/anuraghazra/github-readme-stats)  
     
-- 📧 How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dev0cloo)
+- 📧 How to reach me: etor.ocloo@gmail.com
     
  
  
